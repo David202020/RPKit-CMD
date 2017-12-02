@@ -1,5 +1,5 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/David202020/RPKit-CMD
 branches:
 - master
-projects: [1]
+projects: [RPKit-CMD]
 ...
